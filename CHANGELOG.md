@@ -1,3 +1,303 @@
+## [2.2.134](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.133...v2.2.134) (2024-02-20)
+
+
+### Bug Fixes
+
+* cleanup project ([a425912](https://github.com/AlexanderBabel/mail-parser/commit/a425912bf4a72d96739796f03d2c8cfe59fb5a8e))
+* update dependencies ([a466ad7](https://github.com/AlexanderBabel/mail-parser/commit/a466ad77e249ecd66cfa6abc9b903fe7ff7c7f3a))
+
+## [2.2.133](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.132...v2.2.133) (2023-07-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mailparser to v3.6.5 ([15a25e8](https://github.com/AlexanderBabel/mail-parser/commit/15a25e824d103af44067979be634278a5b2a8c48))
+
+## [2.2.132](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.131...v2.2.132) (2023-06-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency dotenv to v16.3.0 ([afb2201](https://github.com/AlexanderBabel/mail-parser/commit/afb2201d23a9b8d4cd5a11b9b59849f3e62938dd))
+* **deps:** update dependency dotenv to v16.3.1 ([e58b928](https://github.com/AlexanderBabel/mail-parser/commit/e58b928aebb51c99108654c28ff86487225afb40))
+
+## [2.2.131](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.130...v2.2.131) (2023-06-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency dotenv to v16.2.0 ([c6774af](https://github.com/AlexanderBabel/mail-parser/commit/c6774af06ac14bf691b98dca77a20fa777996077))
+
+## [2.2.130](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.129...v2.2.130) (2023-06-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/config to v2.3.4 ([ac6344f](https://github.com/AlexanderBabel/mail-parser/commit/ac6344f4301885f0790396296fe60867b9914a6f))
+
+## [2.2.129](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.128...v2.2.129) (2023-06-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/schedule to v2.2.3 ([2b95f20](https://github.com/AlexanderBabel/mail-parser/commit/2b95f2071c174ee2e070f18c68f06d520f012b5c))
+* **deps:** update dependency dotenv to v16.1.2 ([dfdb7d3](https://github.com/AlexanderBabel/mail-parser/commit/dfdb7d33954b0831efba83ea1e4ba2f1427bfd67))
+* **deps:** update dependency dotenv to v16.1.3 ([8969987](https://github.com/AlexanderBabel/mail-parser/commit/89699873c0bab1cc94211e5c3c74f790f6cf835e))
+* **deps:** update dependency dotenv to v16.1.4 ([ff1df6a](https://github.com/AlexanderBabel/mail-parser/commit/ff1df6a3f471d82dca3241e480fb8c96060014af))
+
+## [2.2.128](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.127...v2.2.128) (2023-05-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency dotenv to v16.1.0 ([202fe7c](https://github.com/AlexanderBabel/mail-parser/commit/202fe7cb4a90ec8b4e03dab1f3ce8f73a44dab78))
+* **deps:** update dependency dotenv to v16.1.1 ([ff528f7](https://github.com/AlexanderBabel/mail-parser/commit/ff528f7367b18a50d7d283ec0558a711a0ea190d))
+
+## [2.2.127](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.126...v2.2.127) (2023-05-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/schedule to v2.2.2 ([893945f](https://github.com/AlexanderBabel/mail-parser/commit/893945fdbf7d91be1188770068791eeec2ae2891))
+
+## [2.2.126](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.125...v2.2.126) (2023-05-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/config to v2.3.2 ([0c6cb9e](https://github.com/AlexanderBabel/mail-parser/commit/0c6cb9eb3039148e4fcf2af6061f49945035ce87))
+
+## [2.2.125](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.124...v2.2.125) (2023-04-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency rxjs to v7.8.1 ([618ff4f](https://github.com/AlexanderBabel/mail-parser/commit/618ff4fddf9ab0369fe15cffeaa81faa13f3525f))
+
+## [2.2.124](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.123...v2.2.124) (2023-04-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/schedule to v2.2.1 ([0677a1d](https://github.com/AlexanderBabel/mail-parser/commit/0677a1d8c4c504f848d5c00f645fcb8ac0a2a8ed))
+
+## [2.2.123](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.122...v2.2.123) (2023-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mailparser to v3.6.4 ([12615d3](https://github.com/AlexanderBabel/mail-parser/commit/12615d3bb7d96df13aae97d2e1f55cee65000f17))
+
+## [2.2.122](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.121...v2.2.122) (2023-03-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency body-parser to v1.20.2 ([4334eee](https://github.com/AlexanderBabel/mail-parser/commit/4334eee6c14814382bef6bcfedbaaddef74c2f55))
+
+## [2.2.121](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.120...v2.2.121) (2023-02-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/config to v2.3.1 ([3cd3082](https://github.com/AlexanderBabel/mail-parser/commit/3cd30822cd8d29ec1f28aeedc18b3d4ccdfbf83d))
+
+## [2.2.120](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.119...v2.2.120) (2023-02-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/schedule to v2.2.0 ([cc1e320](https://github.com/AlexanderBabel/mail-parser/commit/cc1e32011f55a48c9049f577d3f1eae4fea5954a))
+
+## [2.2.119](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.118...v2.2.119) (2023-02-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/config to v2.3.0 ([6a3bda4](https://github.com/AlexanderBabel/mail-parser/commit/6a3bda4193a361a7359803883315e1f9fe322552))
+
+## [2.2.118](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.117...v2.2.118) (2023-01-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mailparser to v3.6.3 ([3c9fc1e](https://github.com/AlexanderBabel/mail-parser/commit/3c9fc1e58b3daa8ee3e51aec0a179b6c7e032112))
+
+## [2.2.117](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.116...v2.2.117) (2022-12-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/axios to v0.1.1 ([6a87a5b](https://github.com/AlexanderBabel/mail-parser/commit/6a87a5b0f249f50e00694c13c39c21b90251571c))
+
+## [2.2.116](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.115...v2.2.116) (2022-12-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency rxjs to v7.8.0 ([5085e46](https://github.com/AlexanderBabel/mail-parser/commit/5085e4648fcfde64d9680725b60396b1965b19c4))
+
+## [2.2.115](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.114...v2.2.115) (2022-12-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mailparser to v3.6.2 ([e8fa188](https://github.com/AlexanderBabel/mail-parser/commit/e8fa188086886c3d5b6a05213b1141d3cf343018))
+
+## [2.2.114](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.113...v2.2.114) (2022-12-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mailparser to v3.6.1 ([3c0b8fe](https://github.com/AlexanderBabel/mail-parser/commit/3c0b8fe15d295f02637bc7af3bb9e743f3ada4d6))
+
+## [2.2.113](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.112...v2.2.113) (2022-12-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mailparser to v3.6.0 ([e05ea2b](https://github.com/AlexanderBabel/mail-parser/commit/e05ea2b6455f8661e3a2362eee14b537668b764c))
+
+## [2.2.112](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.111...v2.2.112) (2022-12-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency rxjs to v7.6.0 ([ea337c2](https://github.com/AlexanderBabel/mail-parser/commit/ea337c240aaa5700d743f73f7cd9e73f93cb589c))
+
+## [2.2.111](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.110...v2.2.111) (2022-10-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency body-parser to v1.20.1 ([564e04d](https://github.com/AlexanderBabel/mail-parser/commit/564e04d1ec2bd152ec30b7bfe332eae6f122bf98))
+
+## [2.2.110](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.109...v2.2.110) (2022-09-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency dotenv to v16.0.3 ([7f057f9](https://github.com/AlexanderBabel/mail-parser/commit/7f057f9a34939a88e33ef414e01f7bf5593dbf58))
+
+## [2.2.109](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.108...v2.2.109) (2022-09-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency rxjs to v7.5.7 ([d429b60](https://github.com/AlexanderBabel/mail-parser/commit/d429b60c128d1358f834a4a1855ded667b31c0f4))
+
+## [2.2.108](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.107...v2.2.108) (2022-08-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency dotenv to v16.0.2 ([963ee73](https://github.com/AlexanderBabel/mail-parser/commit/963ee73102d30d1ee8fdd22ba569a0dfeada9d13))
+
+## [2.2.107](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.106...v2.2.107) (2022-07-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency rxjs to v7.5.6 ([f10b078](https://github.com/AlexanderBabel/mail-parser/commit/f10b07818a0cdbef2dbc5be24950c6ce179980cb))
+
+## [2.2.106](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.105...v2.2.106) (2022-07-09)
+
+
+### Bug Fixes
+
+* **PushService:** switch to new service ([a298b8d](https://github.com/AlexanderBabel/mail-parser/commit/a298b8d6028ec1aad399703bd4d0291addcef813))
+
+## [2.2.105](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.104...v2.2.105) (2022-07-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/schedule to v2.1.0 ([8d5624a](https://github.com/AlexanderBabel/mail-parser/commit/8d5624aa0a3a602df185aa7ac03735d9b36bb5e2))
+
+## [2.2.104](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.103...v2.2.104) (2022-07-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/config to v2.2.0 ([f804f50](https://github.com/AlexanderBabel/mail-parser/commit/f804f504b5a59c1a90922260ac223c47d90c3d63))
+
+## [2.2.103](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.102...v2.2.103) (2022-07-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/axios to v0.1.0 ([0410bf1](https://github.com/AlexanderBabel/mail-parser/commit/0410bf1a3982d0477fb5003052ab7141cd0299d2))
+
+## [2.2.102](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.101...v2.2.102) (2022-07-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/terminus to v8.1.1 ([4bf5711](https://github.com/AlexanderBabel/mail-parser/commit/4bf5711d2e8d819ffef9bc44afc0003f03ce127a))
+
+## [2.2.101](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.100...v2.2.101) (2022-06-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/terminus to v8.1.0 ([68cd64d](https://github.com/AlexanderBabel/mail-parser/commit/68cd64de05d5c185c167ca1536438580130682b2))
+
+## [2.2.100](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.99...v2.2.100) (2022-06-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency cheerio to v1.0.0-rc.12 ([04ed957](https://github.com/AlexanderBabel/mail-parser/commit/04ed957541844373645e0b263804e0877929df67))
+
+## [2.2.99](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.98...v2.2.99) (2022-06-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/terminus to v8.0.8 ([65d0e61](https://github.com/AlexanderBabel/mail-parser/commit/65d0e6157565e6feb968e02069cb1e31f7c6bff9))
+
+## [2.2.98](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.97...v2.2.98) (2022-06-16)
+
+
+### Bug Fixes
+
+* **deps:** update prisma monorepo to v3.15.2 ([04696df](https://github.com/AlexanderBabel/mail-parser/commit/04696df52e28af1fe05d6a412cc315b3e7efb49a))
+
+## [2.2.97](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.96...v2.2.97) (2022-06-14)
+
+
+### Bug Fixes
+
+* **deps:** update nest monorepo to v8.4.7 ([03926b0](https://github.com/AlexanderBabel/mail-parser/commit/03926b0d6e5c294e3a5cd254f660c23c17dd723f))
+
+## [2.2.96](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.95...v2.2.96) (2022-06-10)
+
+
+### Bug Fixes
+
+* disable card payments module ([d89bd62](https://github.com/AlexanderBabel/mail-parser/commit/d89bd62ebdca3545360700453d47d33ebf7637a7))
+
+## [2.2.95](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.94...v2.2.95) (2022-06-09)
+
+
+### Bug Fixes
+
+* **deps:** update prisma monorepo to v3.15.1 ([7d30096](https://github.com/AlexanderBabel/mail-parser/commit/7d30096c583a21a661774906f4e601677f02fd09))
+
+## [2.2.94](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.93...v2.2.94) (2022-06-07)
+
+
+### Bug Fixes
+
+* **deps:** update prisma monorepo to v3.15.0 ([26edd95](https://github.com/AlexanderBabel/mail-parser/commit/26edd951d6c112612c17c4a182ada1312a2a4d56))
+
+## [2.2.93](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.92...v2.2.93) (2022-06-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/schedule to v2 ([9800d17](https://github.com/AlexanderBabel/mail-parser/commit/9800d1787b90eab4d065bf208c98b8df177ae088))
+
 ## [2.2.92](https://github.com/AlexanderBabel/mail-parser/compare/v2.2.91...v2.2.92) (2022-06-02)
 
 
